@@ -1,7 +1,10 @@
 # Algorithmic-Toolbox
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 ## Assignment Solutions(C++)
 The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming.
 
@@ -139,3 +142,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+
+[forks-shield]: https://img.shields.io/github/forks/hnishal/Algorithmic-Toolbox?color=yellow&style=for-the-badge
+[forks-url]: https://github.com/hnishal/Algorithmic-Toolbox/network/members
+[stars-shield]: https://img.shields.io/github/stars/hnishal/Algorithmic-Toolbox?style=for-the-badge
+[stars-url]: https://github.com/hnishal/Algorithmic-Toolbox/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hnishal/Algorithmic-Toolbox?color=red&style=for-the-badge
+[issues-url]: https://github.com/hnishal/Algorithmic-Toolbox/issues
+
+
+
