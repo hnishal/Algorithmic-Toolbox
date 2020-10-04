@@ -1,10 +1,10 @@
-# Algorithmic-Toolbox
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors][all]
+[![All Contributors][all]][all-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-## Assignment Solutions(C++)
+# Algorithmic-Toolbox
+
+### Assignment Solutions(C++)
 The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming.
 
 
@@ -18,7 +18,7 @@ _Make sure you have a GitHub account. In case you don't have one, you can create
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, acmbvp is the owner of the Hacktoberfest repository, so the GitHub URL for this project is:
 
-https://github.com/SanjayDevTech/Code-with-love
+https://github.com/hnishal/Algorithmic-Toolbox
 
 When you’re on the main page of a repository, you’ll see a button to "Star" and “Fork” the repository on the upper right-hand side of the page, underneath your user icon.
 
@@ -29,19 +29,19 @@ To make your own local copy of the repository you would like to contribute to, l
 We’ll use the `git clone` command along with the URL that points to your fork of the repository.
 
 This URL will be similar to the URL above, except now it will end with `.git.` The URL will look like this:
-https://github.com/your-username/Code-with-love.git
+https://github.com/your-username/Algorithmic-Toolbox
 
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL.
 
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
-`git clone https://github.com/your-username/Code-with-love.git`
+`git clone https://github.com/your-username/Algorithmic-Toolbox.git`
 
 ### 3. Create a New Branch
 
-To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Code-with-love) to switch into that directory.
+To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Algorithmic-Toolbox) to switch into that directory.
 
-##### `cd Code-with-love`
+##### `cd Algorithmic-Toolbox`
 
 Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
@@ -95,7 +95,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### `git remote add upstream https://github.com/your-username/Code-with-love.git`
+##### `git remote add upstream https://github.com/your-username/Algorithmic-Toolbox.git`
 
 In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
 
@@ -142,7 +142,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
+[all-url]: https://github.com/hnishal/Algorithmic-Toolbox/graphs/contributors
 [all]: https://img.shields.io/badge/all_contributors-1-brightgreen.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/hnishal/Algorithmic-Toolbox?color=yellow&style=for-the-badge
 [forks-url]: https://github.com/hnishal/Algorithmic-Toolbox/network/members
