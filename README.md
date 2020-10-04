@@ -1,7 +1,6 @@
 # Algorithmic-Toolbox
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![All Contributors][all]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -144,7 +143,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
-
+[all]: https://img.shields.io/badge/all_contributors-1-brightgreen.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/hnishal/Algorithmic-Toolbox?color=yellow&style=for-the-badge
 [forks-url]: https://github.com/hnishal/Algorithmic-Toolbox/network/members
 [stars-shield]: https://img.shields.io/github/stars/hnishal/Algorithmic-Toolbox?style=for-the-badge
